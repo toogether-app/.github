@@ -11,6 +11,12 @@
   <img src="https://user-images.githubusercontent.com/63305840/150650989-e2fbc249-3b33-4777-b176-d9cd5585aea8.png" width="160" /> 
 </p>
 
+## Stack
+- ⚛️ React Native
+- 🐍 Django REST Framework 
+- 🔥 Firebase
+- ☁️ AWS S3 + Heroku
+
 ## Features
 
 ### Profile 
