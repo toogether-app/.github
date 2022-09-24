@@ -1,6 +1,7 @@
-# Welcome to Tooogether app
 
-![toogether-6](https://user-images.githubusercontent.com/63305840/150650911-a3aba1cc-c2dd-4ced-9d60-0bd5ea1cfc8e.png)
+<p float="left" align="left">
+  <img src="https://user-images.githubusercontent.com/63305840/150650911-a3aba1cc-c2dd-4ced-9d60-0bd5ea1cfc8e.png" width="300" />
+</p>
 
 <p float="left" align="middle">
   <img src="https://user-images.githubusercontent.com/63305840/150650981-c84fe3d2-1046-46a8-a231-2ccdbc428afe.png" width="160" />
