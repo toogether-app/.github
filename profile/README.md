@@ -10,3 +10,13 @@
   <img src="https://user-images.githubusercontent.com/63305840/150650983-8bca65bf-b034-41fa-8c4f-45f638d6dc56.png" width="160" />
   <img src="https://user-images.githubusercontent.com/63305840/150650989-e2fbc249-3b33-4777-b176-d9cd5585aea8.png" width="160" /> 
 </p>
+
+## Features
+
+### Profile 
+
+### Matching algorithm
+
+### Create groups with your friends 
+
+### Chat System 
