@@ -11,6 +11,11 @@
   <img src="https://user-images.githubusercontent.com/63305840/150650989-e2fbc249-3b33-4777-b176-d9cd5585aea8.png" width="160" /> 
 </p>
 
+## Whats toogether? 
+An app made by and for students in the UK to meet other students, hang out, go to parties and have FUN
+
+Basically toogether enhances student life
+
 ## Stack
 - ⚛️ React Native
 - 🐍 Django REST Framework 
@@ -18,10 +23,13 @@
 - ☁️ AWS S3 + Heroku
 
 ## Features
+You can create 
 
 ### Profile 
+You can create your profile as in any application uploading your favorite photos with your friends
 
 ### Matching algorithm
+
 
 ### Create groups with your friends 
 
