@@ -34,3 +34,5 @@ You can create your profile as in any application uploading your favorite photos
 ### Create groups with your friends 
 
 ### Chat System 
+
+By @damianstone
