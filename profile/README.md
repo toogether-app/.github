@@ -14,8 +14,6 @@
 ## Whats toogether? 
 An app made by and for students in the UK to meet other students, hang out, go to parties and have FUN
 
-Basically toogether enhances student life
-
 ## Stack
 - ⚛️ React Native
 - 🐍 Django REST Framework 
@@ -30,9 +28,12 @@ You can create your profile as in any application uploading your favorite photos
 
 ### Matching algorithm
 
-
 ### Create groups with your friends 
 
 ### Chat System 
 
+## Do you want to partipate in the creation of Toogether?
+mailto: damianstonedev@gmail.com
+
 By @damianstone
+
