@@ -19,16 +19,15 @@ An app made by and for students in the UK to meet other students, hang out, go t
 - 🐘 PostgreSQL & PostGIS
 
 ## Features
-You can create 
 
 ### Profile 
-You can create your profile as in any app uploading your favorite photos with your friends
+Create your profile as in any app uploading your favorite photos with your friends
 
 ### Create groups with your friends 
 You can create a group profile with your friends
 
 ### Matching algorithm
-You can match with other groups or university students to party
+Match with other groups or university students to party
 
 ### Chat System 
 Talk and coordinate through the chat to go to the place you like the most
@@ -36,5 +35,4 @@ Talk and coordinate through the chat to go to the place you like the most
 ## Do you want to partipate in the creation of Toogether?
 mailto: damianstonedev@gmail.com
 
-By @damianstone
 
