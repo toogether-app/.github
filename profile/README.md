@@ -14,8 +14,7 @@ An app made by and for students in the UK to meet other students, hang out, go t
 - ⚛️ React Native
 - 🐍 Django REST Framework 
 - 📍 GeoDjango
-- 🔥 Firebase
-- ☁️ AWS S3 + Heroku
+- ☁️ AWS
 - 🐘 PostgreSQL & PostGIS
 
 ## Features
