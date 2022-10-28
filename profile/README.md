@@ -8,14 +8,14 @@
 </p>
 
 ## Whats toogether? 
-An app made by and for students in the UK to meet other students, hang out, go to parties and have FUN
+An app made by and for students in the UK to meet other students, hang out, go to parties and have fun
 
 ## Stack
 - ⚛️ React Native
 - 🐍 Django REST Framework 
 - 📍 GeoDjango
-- ☁️ AWS
 - 🐘 PostgreSQL & PostGIS
+- ☁️ AWS (Elastic Beanstalk)
 
 ## Features
 
