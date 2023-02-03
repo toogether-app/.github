@@ -3,33 +3,15 @@
   <img src="https://user-images.githubusercontent.com/63305840/150650911-a3aba1cc-c2dd-4ced-9d60-0bd5ea1cfc8e.png" width="300" />
 </p>
 
-<p float="left" align="center">
-  <img src="https://user-images.githubusercontent.com/63305840/193427544-4e624631-34c6-47ff-8885-03e6b62b0397.png" width="400" />
-</p>
-
-## Whats toogether? 
-An app made by and for students in the UK to meet other students, hang out, go to parties and have fun
+We're creating a revolutionary app for UK students to connect, socialize, and have a blast! Whether you're looking for new friends, wanting to hit up the latest party hotspots, or just seeking fun activities, Toogether has got you covered. By partnering with bars and venues across the country, we're providing them with a powerful marketing platform and incentivizing them to offer exclusive deals on their quieter days. So, join the party and discover the best of what student life has to offer – all with Toogether!
 
 ## Stack
 - ⚛️ React Native (Javascript)
 - 🐍 Django REST (Python)
 - 📍 GeoDjango
-- 🐘 PostgreSQL & PostGIS
-- ☁️ AWS (Elastic Beanstalk)
+- 🐘 PostgreSQL
+- ☁️ AWS
 
-## Features
-
-### Profile 
-Create your profile as in any app uploading your favorite photos with your friends
-
-### Create groups with your friends 
-You can create a group profile with your friends
-
-### Matching algorithm
-Match with other groups or university students to party
-
-### Chat System 
-Talk and coordinate through the chat to go to the place you like the most
 
 ## Do you want to partipate in the creation of Toogether?
 mailto: damianstonedev@gmail.com
